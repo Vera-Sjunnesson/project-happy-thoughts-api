@@ -65,3 +65,6 @@ The user can:
 
 - [Happy thoughts API](https://project-happy-thoughts-api-3t72lksv4a-lz.a.run.app/)
 - [Happy thoughts Frontend](https://happy-thoughts-vera-sjunnesson.netlify.app/)
+
+  <img width="500" alt="Skärmavbild 2023-11-14 kl  15 55 27" src="https://github.com/Vera-Sjunnesson/project-happy-thoughts-api/assets/120519835/8451e9d7-215b-4bbc-a946-347b07f27a61">
+
