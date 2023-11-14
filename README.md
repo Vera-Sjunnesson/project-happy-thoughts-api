@@ -2,7 +2,7 @@
 This is the API for my Happy Thoughts project, a version of Twitter which only allows happy thoughts!
 
 ## The problem
-To set up a database on MongoDB and to build an API, using mongoose, to POST to and GET data from the database and then fetch the data in the frontend [Happy thoughts project] ("https://github.com/Vera-Sjunnesson/project-happy-thoughts/")
+To set up a database on MongoDB and to build an API, using mongoose, to POST to and GET data from the database and then fetch the data in the frontend [Happy thoughts project](https://github.com/Vera-Sjunnesson/project-happy-thoughts/)
 
 ## Functionality
 
