@@ -16,15 +16,16 @@ The user can:
 
 ## Technologies & Tools
 
--MongoDB
--Node.js
--Mongoose
--Express.js
--CORS
--Express List Endpoints
--Postman
+- MongoDB
+- Node.js
+- Mongoose
+- Express.js
+- CORS
+- Express List Endpoints
+- Postman
 
 ## Endpoints
+
 "/" - Defining the route with a welcome message and links
 
 "/thoughts"
