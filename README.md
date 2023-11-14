@@ -2,7 +2,7 @@
 This is the API for my Happy Thoughts project, a version of Twitter which only allows happy thoughts!
 
 ## The problem
-To set up a database on MongoDB and to build an API, using mongoose, to POST to and GET data from the database and then fetch the data in the frontend [Happy thoughts project (https://github.com/Vera-Sjunnesson/project-happy-thoughts)
+To set up a database on MongoDB and to build an API, using mongoose, to POST to and GET data from the database and then fetch the data in the frontend [Happy thoughts project] (https://github.com/Vera-Sjunnesson/project-happy-thoughts)
 
 ## Functionality
 
@@ -62,5 +62,5 @@ The user can:
 
 ## View it live
 
-[Happy thoughts API](https://project-happy-thoughts-api-3t72lksv4a-lz.a.run.app/)
-[Happy thoughts Frontend](https://happy-thoughts-vera-sjunnesson.netlify.app/)
+- [Happy thoughts API](https://project-happy-thoughts-api-3t72lksv4a-lz.a.run.app/)
+- [Happy thoughts Frontend](https://happy-thoughts-vera-sjunnesson.netlify.app/)
